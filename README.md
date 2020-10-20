@@ -6,9 +6,9 @@
 
 ## Screenshots of Keys
 
-![Buttons](Button code.png)
-![Buttons](Button code 2.png)
-![Knife](Knife Code.png)
+![Buttons](Pictures/Button.png)
+![Buttons](Pictures/Button1.png)
+![Knife](Pictures/Knife.png)
 
 
 
