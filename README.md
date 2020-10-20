@@ -20,7 +20,7 @@ ViKiNG (Making Barbossa).
 
 -X/Syn (Making breathless and everything in life) Akalisch (NetVarManager/PatternScanner).
 
-## Pwned (Menu & Sorting Everything) Legend !
+Pwned (Menu & Sorting Everything) Legend !
 
 Warlauke (Barbossa & Noriaela).
 
@@ -35,7 +35,8 @@ Tim (Making the paste and adding any feature we want for free cuz he's a fat fuc
 ## MAKE CYANIDE GREAT AGAIN
 Mani (Updating Cyanide and fixing few features).
 
-# Dont try to fucking sell this shit! #New features will come in soon!!!
+# Dont try to fucking sell this shit! 
+# New features will come in soon!!!
 
 
 
